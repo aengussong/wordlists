@@ -4,3 +4,13 @@ preSharedKey
 wepKeys
 SALT
 NP_HKDF_SALT
+android:protectionLevel="normal"
+getLegacyExternalStorageDirectory
+/sdcard
+Environment.DIRECTORY_DOWNLOADS
+FLAG_GRANT_READ_URI_PERMISSION
+FLAG_GRANT_WRITE_URI_PERMISSION
+addFlags(1
+addFlags(2
+setFlags(1
+setFlags(2
