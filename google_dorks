@@ -1,1 +1,6 @@
 intitle:"index of" "sftp.json"
+intitle:"index of" ".env”
+intitle:"index of" ".env.prod”
+intitle:"index of" ".env.dev”
+intitle:"index of" ".env.test”
+intitle:"index of" ".env.example”
