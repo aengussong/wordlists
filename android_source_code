@@ -14,3 +14,5 @@ addFlags(1
 addFlags(2
 setFlags(1
 setFlags(2
+setJavaScriptEnabled(true)
+loadUrl
