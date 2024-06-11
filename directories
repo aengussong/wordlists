@@ -3,3 +3,4 @@
 /app/etc/local.xml
 /admin/admin.php
 /v2/api-docs
+/spl/api/teardown/file
