@@ -6,3 +6,4 @@
 /spl/api/teardown/file
 /_wpeprivate/config.json
 /var/jenkins_home/users/users.xml
+/clients/MyCRL
