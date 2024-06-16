@@ -17,3 +17,4 @@ setFlags(2
 setJavaScriptEnabled(true)
 loadUrl
 NavController 
+addJavascriptInterface
