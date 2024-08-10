@@ -13,3 +13,4 @@
 /file.ashx?path=web.config
 /Download.aspx?id=4675
 /hax/..CFIDE/adminapi/administrator.cfc?method=getBuildNumber&_cfclient=true
+/wp-json/wp/v2/users/
