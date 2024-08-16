@@ -1,0 +1,7 @@
+url.searchParams
+url.searchParams.get
+url.searchParams.has
+window.location.href
+http://window.location.search
+history.pushState
+history.replaceState
